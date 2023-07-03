@@ -1,0 +1,6 @@
+basic.show_string("My name is: ")
+basic.show_string("Vedschyburger")
+basic.show_string("My age ist ")
+basic.show_number(22)
+basic.show_string("My favorite pet is: ")
+basic.show_string("Wolves, Cats and Horses")
